@@ -7,5 +7,5 @@ package «requests» where
 lean_lib «Requests» where
   -- add library configuration options here
 
-require S2ocket from git "https://github.com/KislyjKisel/Socket.lean.git"
+require Socket from git "https://github.com/KislyjKisel/Socket.lean.git"
 require soda from "git@github.com:algebraic-sofia/soda.git"
