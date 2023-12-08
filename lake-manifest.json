@@ -1,0 +1,14 @@
+{"version": 6,
+ "packagesDir": "lake-packages",
+ "packages":
+ [{"git":
+   {"url": "https://github.com/KislyjKisel/Socket.lean.git",
+    "subDir?": null,
+    "rev": "9c7ee20ba007fc3698651a00f1d608b9ee698b05",
+    "opts": {},
+    "name": "Socket",
+    "inputRev?": null,
+    "inherited": false}},
+  {"path":
+   {"opts": {}, "name": "soda", "inherited": false, "dir": "./../soda"}}],
+ "name": "requests"}
